@@ -10,17 +10,17 @@ prospective customers into leads so that they stay with them in Business.
 <p>This Project includes 1 executable files, 1 presentation and 1 project documentation  as follows:</p>
 <h4>Executable Files:</h4>
 <ul>
-  <li><b>Team_3_Email_Campaign_Effectiveness_Prediction.ipynb</b> - Complete notebook containing Data exploration/Data processing/transformation/model development.</li>
+  <li><b>Email_Campaign_Effectiveness_Prediction_Web_Crawlers.ipynb</b> - Complete notebook containing Data exploration/Data processing/transformation/model development.</li>
 </ul>
 
 <h4>Presentation:</h4>
 <ul>
-  <li><b>Email Campaign Effectiveness Prediction (1).pdf</b> - Contains presentation i.e pptx of the project .</li>
+  <li><b>Presentation Email Campaign Effectiveness Prediction.pptx</b> - Contains presentation i.e pptx of the project .</li>
 </ul>
 
 <h4>Documentation:</h4>
 <ul>
-  <li><b>Email Campaign Effectiveness Prediction_cohort_nilgiri.docx.pdf</b> - Includes the documentation of the project.</li>
+  <li><b>Technical Documentation - Email Campaign Effectiveness Prediction.pdf</b> - Includes the documentation of the project.</li>
 </ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
